@@ -8,3 +8,5 @@ sentence_transformers
 faiss_cpu
 chainlit
 huggingface_hub
+fastapi==0.70.0
+uvicorn==0.15.0
